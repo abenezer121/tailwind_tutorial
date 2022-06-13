@@ -7,7 +7,7 @@ function Pricing() {
     
     return (
         // bg-gray-900/90 the /90 is tranparency
-        <div className='w-full text-white my-24'>
+        <div name="pricing" className='w-full text-white my-24'>
             <div className='w-full h-[800px] bg-slate-900 absolute mix-blend-overlay'>
                 
             </div>
